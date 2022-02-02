@@ -15,5 +15,18 @@
 3. from punjagutta we can go by metro in line 3
 4. in pista house station station we need to get down to reach the restaurent.
 
+## Menu
 
+- Soups
+  - Chicken soup
+  - Mutton Soup
+  - Veg Soup
+- Starters
+  - gobi 
+  - carrot
+  - beef fry
+- Biriyani
+  - Pista biriyani
+  - King biriyani
+  - Raju Biriyani
 
