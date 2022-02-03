@@ -30,3 +30,16 @@
   - King biriyani
   - Raju Biriyani
 **[AboutMe](AboutMe.md)**
+
+---
+
+### Sports
+Below tables discribes the activities of sports with name, place and price for the sport equipment.
+Below are the 24 types of sports that i would recommand some one to try
+
+| Name | Place      | Price|
+|------|------------|------|
+|Cricket | LB Nagar | $25  |
+|Tennis  | TKR Nagar| $67  |
+|Base ball | RR Puram | $77 |
+---
