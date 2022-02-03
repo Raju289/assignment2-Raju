@@ -50,8 +50,22 @@ Below are the 24 types of sports that i would recommand some one to try
 >“Never let the fear of striking out keep you from playing the game.”– Babe Ruth
 
 ----
+## Combinatorics
 
+Combinatorics is an area of mathematics primarily concerned with counting, both as a means and an end in obtaining results, and certain properties of finite structures. 
 
+[More about Combinatorics](https://mathigon.org/world/Combinatorics)
 
+ function pascal_triangle(MAXN)
 
+    intialize a matrix dp[MAXN][MAXN] with 0
+    for i = 0 to MAXN
+        dp[i][0]=dp[0][i]=1
+    endfor
+    for i = 1 to MAXN
+        for j = 1 to MAXN
+            dp[i][j] = dp[i-1][j]+dp[i][j-1]
+        endfor
+    endfor
+[More about Combinatorics](https://www.hackerearth.com/practice/math/combinatorics/basics-of-combinatorics/tutorial/)
 
