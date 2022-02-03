@@ -43,3 +43,15 @@ Below are the 24 types of sports that i would recommand some one to try
 |Tennis  | TKR Nagar| $67  |
 |Base ball | RR Puram | $77 |
 ---
+
+## Quotes
+
+>“Money and success don’t change people; they merely amplify what is already there.” — Will Smith
+>“Never let the fear of striking out keep you from playing the game.”– Babe Ruth
+
+----
+
+
+
+
+
